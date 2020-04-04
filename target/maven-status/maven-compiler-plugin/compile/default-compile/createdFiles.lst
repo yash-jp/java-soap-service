@@ -1,0 +1,9 @@
+com\mycompany\crudservice2\controller\exceptions\NonexistentEntityException.class
+com\mycompany\crudservice2\controller\exceptions\PreexistingEntityException.class
+com\mycompany\crudservice2\handler\DisneyHandler.class
+com\mycompany\crudservice2\model\Shows.class
+com\mycompany\crudservice2\controller\exceptions\IllegalOrphanException.class
+com\mycompany\crudservice2\services\SOAPServices.class
+com\mycompany\crudservice2\JAXRSConfiguration.class
+com\mycompany\crudservice2\controller\ShowsJpaController.class
+com\mycompany\crudservice2\resources\JavaEE8Resource.class
